@@ -1,2 +1,2 @@
-backbone-tutorial1
+backbone-tutorial
 ==================
